@@ -79,6 +79,14 @@
 @import url('layers.css');
 @import url('navigation.css');
 
+.whatsapp-icon {
+  position: fixed;
+  left: 50px;
+  bottom: 40px;
+  width: 70px;
+  height: 70px;
+  z-index: 999;
+}
 
 html{
   font-size: 12px;
