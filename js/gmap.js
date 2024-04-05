@@ -31,7 +31,7 @@ function initialize() {
     + '  269 King Str, 05th Floor</span>'
     + '</div>'
     + '<div>'
-    + '   <span class="text"><strong class="text-dark">Phone:</strong> +99 (0) 344 956 4050</span>'
+    + '   <span class="text"><strong class="text-dark">Phone:</strong> +91 75069 92976</span>'
     + '</div>'
     + '<div class="map-address-row">'
     + '   <span class="map-email">'
